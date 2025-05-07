@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @jhca74 a portuguese 50yo young guy, you can talk to me in portuguese,french and english
 - 👀 I’m interested in creating softwares and apps
 - 🌱 I’m currently learning or trying to learn python
 - 💞️ I’m looking to collaborate on any project or ssist to learn with the explanations
